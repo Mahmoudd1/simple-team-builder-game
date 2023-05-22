@@ -1,4 +1,11 @@
 # TeamApp
+The Team Builder App is a simple Angular application that allows you to generate teams based on the players' names and the desired number of teams. It provides an easy way to distribute players evenly across multiple teams for various team-based activities.
+
+## Features
+- Enter players' names: Input the names of the players you want to include in the team-building process.
+- Specify the number of teams: Set the desired number of teams you want to create.
+- Generate teams: With a click of a button, the app will generate teams by distributing the players evenly among the specified number of teams.
+- Display team rosters: View the generated teams along with their respective player rosters.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
